@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--defines text sizes -->
+    <dimen name="smallText">12sp</dimen>
+    <dimen name="regularText">14sp</dimen>
+    <dimen name="answerText">16sp</dimen>
+    <dimen name="questionText">18sp</dimen>
+    <dimen name="titleText">24sp</dimen>
+
+    <!--defines spaces -->
+    <dimen name="smallSpace">8dp</dimen>
+    <dimen name="regularSpace">16dp</dimen>
+    <dimen name="mediumSpace">24dp</dimen>
+    <dimen name="largeSpace">32dp</dimen>
+    <dimen name="extraLargeSpace">48dp</dimen>
+   
+</resources>
