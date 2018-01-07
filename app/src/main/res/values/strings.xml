@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+
+    <!-- The Title of the Quiz -->
+    <string name="title">Getting it Right in Print \n Quiz</string>
+
+    <!-- A short description of the quiz -->
+    <string name="description">This is a quiz that covers basic knowledge \n of the paper printing technology. \n If you are a graphic designer \n or a printing technician \n then your score must be the highest.</string>
+
+    <!-- The "let's get started subtitle -->
+    <string name="start">Let\'s Get Started. Good Luck!</string>
+
+    <!-- The questions of the quiz-->
+
+    <string name="question1">Question 1: Which color system is used in paper printing?</string>
+    <string name="question2">Question 2: What color is K in CMYK?</string>
+    <string name="question3">Question 3: What is the Pantone Color of the year 2018?</string>
+    <string name="question4">Question 4: What is the best resolution in paper printing?</string>
+    <string name="question5">Question 5: What dpi means?</string>
+    <string name="question6">Question 6: What is A4 size in mm?</string>
+    <string name="question7">Question 7: Is A5 bigger than A4?</string>
+    <string name="question8">Question 8: How many times A6 size fits in A3 size?</string>
+    <string name="question9">Question 9: What kind of paper is better for high quality photographs in offset printing?</string>
+    <string name="question10">Question 10: Which of the bellow are printing types?</string>
+
+    <!-- The answers of the quiz for each question -->
+
+    <!-- question 1: Which color system is used in paper printing? -->
+
+    <string name="q1a1">CMYK (Cyan, Magenta, Yellow, Key)</string>
+    <string name="q1a2">RGB (Red, Green, Blue)</string>
+    <string name="q1a3">HSV (Hue, Saturation, Value)</string>
+    <string name="q1a4">PMS (Pantone Matching System)</string>
+
+    <!-- question 2: What color is K in CMYK? & question 5: What dpi means?  -->
+
+    <string name="fillanswer">Write your answer here</string>
+
+    <!-- question 2 answer is -->
+    <string name="q2a">Black</string>
+
+    <!-- question 3: What is the Pantone Color of the year 2018? -->
+
+    <string name="q3a1">Rose Quartz</string>
+    <string name="q3a2">Ultra Violet</string>
+    <string name="q3a3">Turquoise</string>
+    <string name="q3a4">Greenery</string>
+
+    <!-- question 4: What is the best resolution in paper printing? -->
+
+    <string name="q4a1">72 dpi</string>
+    <string name="q4a2">150 dpi</string>
+    <string name="q4a3">300 dpi</string>
+    <string name="q4a4">1200 dpi</string>
+
+    <!-- question 5 answer is -->
+    <string name="q5a">Dots Per Inch</string>
+
+    <!-- question 6: What is A4 size in mm? -->
+
+    <string name="q6a1">210 x 295</string>
+    <string name="q6a2">210 x 297</string>
+    <string name="q6a3">210 x 420</string>
+    <string name="q6a4">297 x 420</string>
+
+    <!-- question 7: Is A5 bigger than A4? -->
+
+    <string name="q7a1">Yes</string>
+    <string name="q7a2">No</string>
+
+    <!-- question 8: How many times A6 size fits in A3 size? -->
+
+    <string name="q8a1">2</string>
+    <string name="q8a2">4</string>
+    <string name="q8a3">8</string>
+    <string name="q8a4">9</string>
+
+    <!-- question 9: What kind of paper is better for high quality photographs in offset printing? -->
+
+    <string name="q9a1">Coated</string>
+    <string name="q9a2">Uncoated</string>
+
+    <!-- question 10: Which of the bellow are printing types? -->
+
+    <string name="q10a1">Movable type</string>
+    <string name="q10a2">Offset printing</string>
+    <string name="q10a3">Lithography</string>
+    <string name="q10a4">Stencil</string>
+    <string name="q10a5">Seals</string>
+    <string name="q10a6">Intaglio</string>
+
+    <!-- And the scores of the quiz are... -->
+
+    <string name="points">points.</string>
+    <string name="score">You got</string>
+    <string name="low">Try again!</string>
+    <string name="medium">You did well!</string>
+    <string name="high">You did great!</string>
+
+    <!-- the submit button -->
+    <string name="submit">Submit Answer</string>
+
+</resources>
